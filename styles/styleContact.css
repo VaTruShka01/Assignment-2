@@ -1,0 +1,78 @@
+.first-fieldset{
+    padding-top: 150px;
+}
+
+fieldset{
+    background-color: #CAC2BC;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+fieldset legend {
+    padding-bottom:30px;
+}
+
+body {
+    text-align: center;
+}
+
+input {
+    border: none;
+    background-color: #fff;
+    width: 60%;
+    height: 2.5em;
+    margin: 7px;
+    border-radius: 8px;
+}
+
+input:hover {
+    background-color: #F3F0EE;
+}
+
+.submit input:hover, select, .radio input{
+    cursor: pointer;
+    
+}
+
+.submit input{
+    border-radius: 20px;
+    width: 30%;
+    margin-bottom: 40px;
+}
+.radio{
+    margin-left: 40%;
+    width: 20%;
+    text-align: center;
+}
+
+#noOfEmployees{
+    margin-left: 25px;
+}
+
+select {
+    border: none;
+    width: 60%;
+    height: 2.5em;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+.messege textarea{
+    width: 60%;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.contact-me-here label{
+    font-size: 1.5em;
+    text-align: justify;
+
+}
+
+.contact-me-here label a{
+    color: black;
+}

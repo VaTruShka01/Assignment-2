@@ -1,0 +1,20 @@
+main section figure img {
+    margin-bottom: 0px;
+    max-width: 500px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+.my-cite{
+    text-align: left;
+    padding: 10px;
+}
+
+.about-me ul{
+padding-top: 20px;
+}
+.about-me li {
+    padding-bottom: 10px;
+}

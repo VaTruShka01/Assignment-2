@@ -1,0 +1,46 @@
+
+
+/* HEADER */
+
+.main{
+    padding-top: 150px;
+}
+
+
+
+
+
+.about-me{
+
+padding: 20px;
+display: block;
+height: 500px;
+}
+
+.inf{
+    display: flex;
+    margin: 30px;
+}
+
+
+
+
+.inf img {
+    max-width: 500px;
+    border-radius: 10px;
+    
+}
+
+main img {
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+section.first-section {
+    padding: 10px;
+}
+
+.first-section img{
+padding-top: 10px;
+border-radius: 10px;
+}

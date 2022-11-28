@@ -1,0 +1,42 @@
+body{
+    background-image: url(../images/wallpapersden.com_snowy-mountains_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+main section {
+    
+    background-color: rgb(0, 0, 0, 0);
+    height: 100%;
+    text-align: center;
+    
+    align-items: center;
+}
+
+
+.first-section div {
+    display: flex;
+
+}
+
+
+main section p{
+    padding-left: 150px ;
+    padding-top: 200px;
+    font-size: 2em;
+    color: aliceblue
+}
+
+section figure img{
+    text-align: right;
+    max-width: 50%;
+}
+
+main{
+    width: 100%;
+}
+
+.my-cite {
+    margin-left: 40%;
+}
